@@ -14,6 +14,7 @@ public class Array{
 			} else{
 				System.out.println("Couldn't get any values. Sorry!");
 			}
+
 		}
 	}
 }
